@@ -1,0 +1,8 @@
+---
+version: 5
+defaults:
+  datadir: "/etc/puppetlabs/puppet/hieradata"
+  data_hash: yaml_data
+:hierarchy:
+    - name: "data per node"
+      path: "%{trusted.certname}.yaml"
