@@ -28,4 +28,4 @@ The CPS-provided Python script ``cps_config_mirror.py`` facilitates following op
 https://puppet.com/docs/puppet/5.3/types/exec.html
 
 
-Copyright (c) 2018, Dell EMC. All rights reserved.
+(c) 2018 Dell Inc. or its subsidiaries. All Rights Reserved.
