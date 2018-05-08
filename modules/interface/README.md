@@ -15,4 +15,4 @@ The sample interface manifest uses the Linux interface configuration commands to
 https://puppet.com/docs/puppet/5.3/types/exec.html
 
 
-Copyright (c) 2018, Dell EMC. All rights reserved.
+(c) 2018 Dell Inc. or its subsidiaries. All Rights Reserved.
