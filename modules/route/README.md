@@ -15,4 +15,4 @@ The sample route manifest uses route Linux configuration commands to configure s
 https://puppet.com/docs/puppet/5.3/types/exec.html
 
 
-Copyright (c) 2018, Dell EMC. All rights reserved.
+(c) 2018 Dell Inc. or its subsidiaries. All Rights Reserved.
