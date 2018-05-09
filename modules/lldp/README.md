@@ -18,4 +18,4 @@ The module contains the lldp conf file in addition to the lldp.pp manifest - ``f
 - https://puppet.com/docs/puppet/5.3/types/service.html
 
 
-Copyright (c) 2018, Dell EMC. All rights reserved.
+(c) 2018 Dell Inc. or its subsidiaries. All Rights Reserved.

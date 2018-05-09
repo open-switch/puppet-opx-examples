@@ -17,4 +17,4 @@ The sample OPX manifest includes the features lldp, bgp_quagga, interface, route
  - To run the agents execute ``puppet agent -t``
 
 
-Copyright (c) 2018, Dell EMC. All rights reserved.
+(c) 2018 Dell Inc. or its subsidiaries. All Rights Reserved.

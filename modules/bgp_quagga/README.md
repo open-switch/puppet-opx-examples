@@ -23,4 +23,4 @@ Apart from the manifest, two configuration files must be present in the ``/files
 - https://puppet.com/docs/puppet/5.3/types/service.html
 
 
-Copyright (c) 2018, Dell EMC. All rights reserved.
+(c) 2018 Dell Inc. or its subsidiaries. All Rights Reserved.

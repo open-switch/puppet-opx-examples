@@ -106,4 +106,4 @@ https://puppet.com/docs/puppet/5.3/types/service.html
 https://puppet.com/docs/hiera/3.3/hierarchy.html
 
 
-Copyright (c) 2018, Dell EMC. All rights reserved.
+(c) 2018 Dell Inc. or its subsidiaries. All Rights Reserved.

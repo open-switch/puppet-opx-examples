@@ -43,4 +43,4 @@ To run the agents:
     puppet agent -t
 
 
-Copyright (c) 2018, Dell EMC. All rights reserved.
+(c) 2018 Dell Inc. or its subsidiaries. All Rights Reserved.
